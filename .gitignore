@@ -1,0 +1,13 @@
+.DS_Store
+
+# Ignore Python byte code files
+__pycache__/
+
+# Ignore virtual environment files
+venv/
+
+# Ignore log files
+*.log
+
+# Ignore IDE-specific files and directories (e.g., for VSCode)
+.vscode/
